@@ -1,6 +1,7 @@
 astroid==2.11.5
 atomicwrites==1.4.0
 attrs==21.4.0
+beautifulsoup4==4.11.1
 certifi==2021.10.8
 cfgv==3.3.1
 charset-normalizer==2.0.12
@@ -27,6 +28,7 @@ PyYAML==6.0
 requests==2.27.1
 requests-mock==1.9.3
 six==1.16.0
+soupsieve==2.3.2.post1
 toml==0.10.2
 tomli==2.0.1
 typing-extensions==4.2.0
