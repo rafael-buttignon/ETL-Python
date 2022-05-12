@@ -68,3 +68,17 @@ Fechamos a implementação do estagio de extração concentrando no teste unitá
 
 Links:
 * GitHub - https://github.com/programadorLhama/E...
+
+## 09 - ETL Pipeline - Introdução ao Estágio de Transformação
+
+Iniciamos os preparativos e debatemos os princípios iniciais pra direcionar nossa criação do estágio de transformação
+
+Links:
+* GitHub - https://github.com/programadorLhama/E...
+
+## 10 - ETL Pipeline - Implementando o Estágio de Transformação
+
+Dada uma introdução básica a respeito dos processos necessários na etapa de transformação, agora adicionamos toda a lógica necessária ao estágio desejado
+
+Links:
+* GitHub - https://github.com/programadorLhama/E...

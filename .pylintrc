@@ -12,6 +12,10 @@ disable=
       C0411,
       C0305,
       W0703,
+      C0303,
+      R1705,
+      R0201,
+      W0612
 
 # A comma-separated list of package or module names from where C extensions may
 # be loaded. Extensions are loading into the active Python interpreter and may
