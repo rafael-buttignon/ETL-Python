@@ -55,9 +55,16 @@ Links:
 
 ## 07 - ETL Pipeline - Contratos e Erros
 
-Seguindo a implementação do estagio de extração, temos o acoplamento e utiização de contratos e tratamento de erros
+Seguindo a implementação do estagio de extração, temos o acoplamento e utilização de contratos e tratamento de erros
 
 Links:
 * GitHub - https://github.com/programadorLhama/E...
 * tratamento de erros - https://www.youtube.com/watch?v=9qLiQ...
 * tuplas nomeadas - https://www.youtube.com/watch?v=RMoyc...
+
+## 08 - ETL Pipeline - Finalização de Estágio de Extração
+
+Fechamos a implementação do estagio de extração concentrando no teste unitário e adicionando elementos para melhorar a validação
+
+Links:
+* GitHub - https://github.com/programadorLhama/E...
