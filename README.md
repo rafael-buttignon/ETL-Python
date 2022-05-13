@@ -82,3 +82,19 @@ Dada uma introdução básica a respeito dos processos necessários na etapa de 
 
 Links:
 * GitHub - https://github.com/programadorLhama/E...
+
+## 11 - ETL Pipeline - Finalização de Estágio de Transformação
+
+Fechamos a implementação do estagio de transformação concentrando no teste unitário e adicionando elementos para melhorar a validação
+
+Links:
+* GitHub - https://github.com/programadorLhama/E...
+
+## 12 - ETL Pipeline - Banco de Dados e Conexão
+
+Para introduzir a etapa de Carga, será necessário a implementação de certo mecanismo para interação com bancos de dados. Para isso, iniciamos toda a etapa de manipulação de banco de dados para gerar tabelas e conexões desejadas
+
+Links:
+* GitHub - https://github.com/programadorLhama/E...
+* Python Mysql - https://www.datacamp.com/community/tu...
+* Mysql Connector - https://pypi.org/project/mysql-connec...
