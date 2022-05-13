@@ -112,3 +112,10 @@ Feita toda a parte de infraestrutura junto com o mock relativo ao contrato de tr
 
 Links:
 * GitHub - https://github.com/programadorLhama/E...
+
+## 15 - ETL Pipeline - Montagem de Pipeline e Finalização
+
+Finalizamos a montagem de todo o pipeline fazendo todo o encaixe de classes e objetos e analizamos o comportamento do projeto em execução
+
+Links:
+* GitHub - https://github.com/programadorLhama/E...
