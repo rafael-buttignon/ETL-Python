@@ -98,3 +98,17 @@ Links:
 * GitHub - https://github.com/programadorLhama/E...
 * Python Mysql - https://www.datacamp.com/community/tu...
 * Mysql Connector - https://pypi.org/project/mysql-connec...
+
+## 13 - ETL Pipeline - Inserção de Registros
+
+Após estabelecida conexão em banco de dados e feitas as devidas criações, agora manipulamos registros para inserir e armazenar em banco.
+
+Links:
+* GitHub - https://github.com/programadorLhama/E...
+
+## 14 - ETL Pipeline - Estágio de Carga
+
+Feita toda a parte de infraestrutura junto com o mock relativo ao contrato de transformação, agora estamos aptos a implementar o estágio de carga!
+
+Links:
+* GitHub - https://github.com/programadorLhama/E...
